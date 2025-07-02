@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # firebase_auth_task2
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Firebase_Authentication
+>>>>>>> 1cd49f6df77658ff4c480ea9124dcd5edb4dea27
